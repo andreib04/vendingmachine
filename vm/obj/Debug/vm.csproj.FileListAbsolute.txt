@@ -1,0 +1,8 @@
+E:\c#\vm\vm\bin\Debug\vm.exe.config
+E:\c#\vm\vm\bin\Debug\vm.exe
+E:\c#\vm\vm\bin\Debug\vm.pdb
+E:\c#\vm\vm\obj\Debug\vm.csproj.AssemblyReference.cache
+E:\c#\vm\vm\obj\Debug\vm.csproj.SuggestedBindingRedirects.cache
+E:\c#\vm\vm\obj\Debug\vm.csproj.CoreCompileInputs.cache
+E:\c#\vm\vm\obj\Debug\vm.exe
+E:\c#\vm\vm\obj\Debug\vm.pdb
